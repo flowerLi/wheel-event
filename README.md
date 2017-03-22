@@ -23,8 +23,7 @@
 		</style>
 	</head>
 	<body style="height: 3000px;">
-		<div id="box">
-			
+		<div id="box">		
 		</div>
 	</body>
 	<script type="text/javascript">
